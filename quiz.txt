@@ -1,0 +1,110 @@
+Qual a principal finalidade de um relatório no ambiente de trabalho? | Comunicação e Expressão | B | Contar uma história fictícia | Apresentar informações claras e organizadas para tomada de decisões | Divertir o leitor | Expressar opiniões pessoais
+O que caracteriza um relato? |Comunicação e Expressão | A | Descrição detalhada e objetiva de fatos reais vivenciados pelo narrador | Texto cheio de opiniões | Um texto científico longo | Texto que apresenta só dados numéricos
+Em um relatório, qual é a função da introdução? | Comunicação e Expressão | A | Apresentar o objetivo e o contexto do trabalho ou estudo | Concluir o relatório | Apresentar tabelas e gráficos | Fazer uma narrativa
+Qual a principal diferença entre relato e descrição? | Comunicação e Expressão | A | O relato conta uma experiência; a descrição detalha características de algo ou alguém | O relato é sempre formal; a descrição é informal | O relato usa apenas dados; a descrição usa opiniões | Não há diferença
+Qual dos itens abaixo é uma característica fundamental da descrição? | Comunicação e Expressão | B | Apresentar sequência temporal de eventos | Detalhar aspectos visuais, auditivos, táteis, olfativos e gustativos | Apresentar argumentos para convencer | Contar uma história
+Qual a função principal da linguagem em um relatório técnico? | Comunicação e Expressão | B | Expressar emoções | Informar com clareza, objetividade e precisão | Criar suspense | Falar sobre assuntos pessoais
+Ao elaborar um relatório, qual dos seguintes elementos não deve ser incluído? |Comunicação e Expressão | B | Objetivo do relatório | Opiniões pessoais do autor | Resultados obtidos | Conclusão com recomendações
+Em um relato, qual tempo verbal é mais comum? | Comunicação e Expressão | C | Presente do indicativo | Futuro do pretérito | Passado (pretérito) | Futuro do presente
+Para que serve a descrição no ambiente profissional? | Comunicação e Expressão | A | Para detalhar produtos, processos, ambientes ou situações de forma clara | Para criar textos literários | Para contar histórias | Para fazer propaganda
+O que significa ser objetivo na escrita de relatórios? | Comunicação e Expressão | B | Usar muitos adjetivos | Ser direto, claro e evitar informações desnecessárias | Usar linguagem técnica complicada | Escrever de forma longa
+Qual a função do resumo em um relatório? | Comunicação e Expressão | A | Apresentar uma versão sintetizada dos pontos principais do documento | Contar uma história pessoal | Colocar dados detalhados | Apresentar opiniões
+Em qual tipo de documento profissional você espera encontrar uma seção chamada “Metodologia”? | Comunicação e Expressão | A | Relatório técnico | Relato pessoal | Descrição de produto | Anúncio publicitário
+O que deve conter uma boa descrição de um produto no mercado de trabalho? | Comunicação e Expressão | A | Características, funcionalidades e possíveis usos do produto | Histórias relacionadas ao produto | Opiniões dos vendedores | Desenhos artísticos
+Qual o papel do vocabulário em um relatório empresarial? |Comunicação e Expressão | B | Usar palavras rebuscadas para impressionar | Usar termos claros e técnicos adequados ao público-alvo | Usar gírias para aproximar-se do leitor | Usar expressões coloquiais
+Qual é a principal função do cabeçalho em um relatório? |Comunicação e Expressão | A | Indicar o título, autor, data e outras informações básicas do documento | Colocar gráficos | Apresentar resultados | Fazer uma narrativa
+O que diferencia um relato profissional de uma simples narrativa? | Comunicação e Expressão| B | O relato profissional é baseado em fatos relevantes para a empresa ou área de atuação | O relato profissional é sempre ficcional | O relato profissional usa muitas emoções | O relato profissional não tem estrutura
+O que é um relatório de acompanhamento? | Comunicação e Expressão| A | Documento que registra o progresso de um projeto ou atividade ao longo do tempo | Relato de um evento social | Descrição de um produto novo | Texto literário
+Por que é importante evitar opiniões pessoais em relatórios? | Comunicação e Expressão| A | Porque relatórios devem ser imparciais e baseados em fatos e dados objetivos | Porque opiniões não são interessantes | Porque ninguém lê relatórios | Porque opiniões são sempre negativas
+Qual das funções da linguagem está mais presente em um relato? | Comunicação e Expressão | C | Apelativa | Emotiva | Referencial (informativa) | Poética
+Em uma descrição, o uso de adjetivos e detalhes sensoriais ajuda a: | Comunicação e Expressão| B | Deixar o texto mais objetivo | Tornar a imagem ou situação mais vívida e compreensível para o leitor | Confundir o leitor | Diminuir o tamanho do texto
+
+
+Qual é o resultado da expressão `3 + 5 * 2` em Python? |  Programação | B | 16 | 13 | 11 | 10
+Qual é a forma correta de declarar uma variável em Python? | Programação | B | `int x = 10` | `x = 10` | `var x = 10` | `x := 10`  
+Qual é o tipo de dado retornado por `type("Hello")`? | Programação| B | int | str | float | bool  
+Qual é a saída do código `print(10 // 3)`? | Programação | C | 3.33 | 4 | 3 | 3.0  
+Qual estrutura é usada para repetição em Python? | Programação | B | repeat | for | loop | do-while  
+Qual é o resultado do código `x = 5; if x > 3: print("Maior"); else: print("Menor")`? | Programação | B | Menor | Maior | Nada é impresso | Erro  
+Qual é a forma correta de criar uma lista em Python? | Programação | A | `lista = [1, 2, 3]` | `lista = {1, 2, 3}` | `lista = (1, 2, 3)` | `lista = <1, 2, 3>`  
+Qual método adiciona um elemento ao final de uma lista? |Programação | A | append() | add() | insert() | extend()  
+Qual é a saída do código `print(len("Python"))`? | Programação | B | 5 | 6 | 7 | 4  
+Qual operador verifica igualdade em Python? | Programação | B | `=` | `==` | `===` | `!=`  
+Qual é o resultado de `2 ** 3` em Python? | Programação | B | 6 | 8 | 9 | 5  
+Qual é a forma correta de definir uma função em Python? |Programação| B | `function minha_funcao():` | `def minha_funcao():` | `fun minha_funcao():` | `minha_funcao():`  
+Qual é o resultado do código `for i in range(3): print(i)`? | Programação | B | 1, 2, 3 | 0, 1, 2 | 0, 1, 2, 3 | 1, 2  
+Qual é o tipo de dado de `3.14` em Python? | Programação | C | int | str | float | bool  
+Qual é o resultado do código `x = [1, 2, 3]; print(x[1])`? | Programação | B | 1 | 2 | 3 | Erro  
+Qual palavra-chave é usada para sair de um loop? | Programação | C | stop | exit | break | end  
+Qual é a saída do código `print("Hello" + "World")`? | Programação | B | Hello World | HelloWorld | Hello+World | Erro  
+Qual é o resultado de `10 % 3` em Python? | Programação | B | 3 | 1 | 0 | 2  
+Qual é a forma correta de comentar uma linha em Python? | Programação | B | `// Comentário` | `# Comentário` | `/* Comentário */` | `<!-- Comentário -->`  
+Qual é o resultado do código `def soma(a, b): return a + b; print(soma(2, 3))`? | Programação | A | 5 | 6 | 23 | Erro
+
+
+Quais componentes de um processador são responsáveis pela segurança de execução? | Arquitetura e Organização de Computadores | B | ALU e Unidade de Controle | Cache e Registradores | Barramentos e Tabelas de Paginação | Cache e Unidade Lógica Aritmética
+Qual a principal vantagem da arquitetura RISC em relação à CISC em termos de segurança? | Arquitetura e Organização de Computadores | C | RISC tem mais pontos de falha por ser mais rápido. | CISC é mais seguro devido à complexidade das instruções. | RISC tem instruções mais simples e menos pontos de falha. | CISC usa menos recursos e é mais eficiente.
+O que são ataques de canal lateral (side-channel) e como eles afetam a arquitetura de processadores? | Arquitetura e Organização de Computadores | A | Ataques que exploram falhas de cache e podem vazar dados sensíveis. | Ataques que modificam instruções para causar falhas de segurança. | Ataques baseados em vulnerabilidades de rede, sem impactar a arquitetura. | Ataques que exploram falhas no controle de fluxo de programas.
+Como a execução especulativa pode ser usada em um ataque como o Meltdown? | Arquitetura e Organização de Computadores | A | Permite que um atacante acesse dados fora de seu espaço de memória. | Torna mais difícil detectar instruções maliciosas. | Previne vazamento de dados ao melhorar a segurança. | Acelera a execução de instruções sem afetar a segurança.
+Qual a função das Tabelas de Paginação em sistemas modernos? | Arquitetura e Organização de Computadores | B | Gerenciar a execução de threads no processador. | Mapear endereços de memória virtual para memória física. | Controlar a integridade dos dados na memória. | Organizar dados temporários durante a execução.
+O que é um "Buffer Overflow" e como ele pode ser explorado? | Arquitetura e Organização de Computadores | A | Excesso de dados que corrompe a memória, permitindo execução de código malicioso. | Excesso de memória RAM que impede a execução de processos. | Aumento de dados temporários que melhora a performance. | Excesso de armazenamento que impede o acesso à memória.
+Qual a função do DEP (Data Execution Prevention) na segurança de arquitetura de computadores? | Arquitetura e Organização de Computadores | A | Impede que dados executáveis sejam executados em áreas não autorizadas. | Aumenta a velocidade de execução de programas. | Controla os acessos físicos ao processador. | Impede a execução de código malicioso na memória.
+Como a técnica de ASLR (Address Space Layout Randomization) ajuda na segurança? | Arquitetura e Organização de Computadores | A | Impede que endereços de memória sejam previsíveis, dificultando ataques. | Melhora a performance do processador ao organizar a memória. | Aumenta a execução de processos paralelos. | Controla a quantidade de memória disponível para processos.
+O que são vulnerabilidades em hypervisores e como elas afetam a segurança? | Arquitetura e Organização de Computadores | B | São falhas no controle de acesso aos dispositivos físicos. | São falhas que permitem que um atacante acesse máquinas virtuais ou o host. | Aumentam a performance do sistema, sem impacto na segurança. | Permitem a execução de processos paralelos de forma mais eficiente.
+Qual a principal função da MMU (Memory Management Unit)? | Arquitetura e Organização de Computadores | B | Acelerar o desempenho de unidades de processamento. | Gerenciar a tradução de endereços virtuais para físicos e proteção de memória. | Controlar a alocação de recursos gráficos do sistema. | Controlar a quantidade de dados trafegando entre o processador e a memória.
+O que são ataques de injeção de código e como a arquitetura pode mitigar esses ataques? | Arquitetura e Organização de Computadores | B | Ataques que tentam acessar a memória física sem permissão. | Ataques que inserem código malicioso na memória, podendo ser mitigados com proteção de execução. | Ataques que alteram a estrutura física da CPU. | Ataques que causam falhas de hardware, reduzindo a segurança.
+Como a arquitetura de sistemas multicores pode impactar a segurança de um sistema? | Arquitetura e Organização de Computadores | B | Pode ser mais segura, pois isola os processos em núcleos separados. | Aumenta as chances de ataques de concorrência, como race conditions. | Melhora a criptografia, sem impactar a segurança. | Não afeta a segurança, apenas a performance.
+O que são e como funcionam as barreiras de memória (memory fences)? | Arquitetura e Organização de Computadores | C | Impedem o uso de memória em áreas não autorizadas. | Controlam o tráfego de dados entre diferentes dispositivos. | Impedem que instruções sejam executadas fora de ordem, garantindo consistência de memória. | Melhoram a velocidade da comunicação entre núcleos de um processador.
+Como o TPM (Trusted Platform Module) contribui para a segurança da arquitetura? | Arquitetura e Organização de Computadores | D | Acelera a performance de chips gráficos em dispositivos móveis. | Controla a execução de processos em sistemas multitarefa. | Garante a compatibilidade de hardware com sistemas de segurança. | Armazena chaves criptográficas e autentica a plataforma contra ataques.
+Como o controle de fluxo pode ser comprometido por ataques de injeção de código? | Arquitetura e Organização de Computadores | B | O atacante cria falhas no gerenciamento de memória, causando instabilidade. | O atacante altera o fluxo do programa, redirecionando a execução para código malicioso. | O atacante sobrecarrega os barramentos de dados, tornando-os lentos. | O atacante causa falhas físicas no processador, interrompendo a execução.
+O que é a técnica de "Stack Canaries" e como ela ajuda na segurança? | Arquitetura e Organização de Computadores | C | Organiza a memória de forma mais eficiente para evitar falhas. | Impede a execução de processos não autorizados. | Protege contra buffer overflows ao inserir um valor de verificação antes do endereço de retorno. | Aumenta a velocidade do processador durante a execução de código.
+Qual o papel da "Tabela de Vetores de Interrupção" (IVT) na arquitetura de segurança? | Arquitetura e Organização de Computadores | A | Armazena endereços de interrupções e pode ser explorada para redirecionar a execução. | Acelera a execução de processos paralelos. | Organiza as permissões de execução do sistema operacional. | Protege a memória contra acessos não autorizados.
+Como a criptografia em nível de hardware (por exemplo, AES) aumenta a segurança? | Arquitetura e Organização de Computadores | D | Organiza melhor o tráfego de dados entre processadores. | Aumenta a velocidade de transferência de dados. | Impede a execução de códigos maliciosos. | Torna os dados mais seguros ao proteger o processamento diretamente no chip.
+O que são ataques "Return-Oriented Programming" (ROP) e como eles podem ser mitigados? | Arquitetura e Organização de Computadores | C | Ataques que alteram diretamente o controle de interrupções. | Ataques que alteram o fluxo de dados na memória RAM. | Explorando instruções existentes para executar código malicioso. Podem ser mitigados com DEP e ASLR. | Ataques físicos que comprometem a estrutura da CPU.
+Como as "Unidades de Proteção de Memória" (MPU) contribuem para a segurança? | Arquitetura e Organização de Computadores | C | Impedem o uso de instruções desnecessárias. | Aceleram a execução de códigos criptografados. | Limitam o acesso à memória de processos não autorizados. | Aumentam a performance ao organizar a memória RAM.
+
+
+Qual dos itens abaixo não é um dos pilares da segurança da informação? | Princípios de Segurança da Informação | D | Confidencialidade | Integridade | Disponibilidade | Velocidade
+O que garante a confidencialidade da informação? | Princípios de Segurança da Informação | A | A informação está acessível apenas para quem tem autorização. | A informação está sempre disponível para qualquer um. | A informação pode ser alterada livremente. | A informação está comprimida.
+Um ataque de phishing tem como objetivo:| Princípios de Segurança da Informação | B | Infectar o computador com vírus. | Obter dados sigilosos se passando por uma entidade confiável. | Bloquear acesso ao sistema permanentemente. | Testar a velocidade da rede.
+Um firewall é usado para:| Princípios de Segurança da Informação | B | Substituir antivírus. | Proteger a rede contra acesso não autorizado. | Armazenar arquivos temporários. | Otimizar o banco de dados.
+A integridade da informação garante que:| Princípios de Segurança da Informação | C | Ela será enviada apenas para o destinatário correto. | Ela estará disponível 24/7. | Ela não foi modificada indevidamente. | Ela estará criptografada.
+Qual dos ataques abaixo é um exemplo de ataque de negação de serviço (DoS)?| Princípios de Segurança da Informação | B | Enviar um link falso por e-mail. | Enviar milhares de requisições para um servidor até ele cair. | Invadir fisicamente o servidor. | Sequestrar dados e pedir resgate.
+Criptografia é usada principalmente para:| Princípios de Segurança da Informação | C | Apagar informações antigas. | Compactar arquivos. | Proteger dados durante a comunicação. | Organizar banco de dados.
+A técnica de engenharia social consiste em:| Princípios de Segurança da Informação | B | Uso de redes neurais para prever falhas. | Manipulação de pessoas para obter informações confidenciais. | Escaneamento automático de portas. | Criptografia de ponta a ponta.
+Um ransomware é um tipo de:| Princípios de Segurança da Informação | C | Firewall | Antivírus | Malware | Backup
+A prática de manter cópias de segurança dos dados é chamada de:| Princípios de Segurança da Informação | B | Snapshot | Backup | Restore | Firewall
+A política de segurança da informação deve ser:| Princípios de Segurança da Informação | C | Aplicável somente a desenvolvedores. | Flexível para cada usuário. | Conhecida e seguida por todos na organização. | Guardada em segredo.
+O uso de senhas fortes e autenticação de dois fatores ajuda principalmente a proteger:| Princípios de Segurança da Informação | B | Integridade | Confidencialidade | Disponibilidade | Backups
+Um exemplo de boa prática de segurança é:| Princípios de Segurança da Informação | B | Usar a mesma senha em todos os serviços. | Atualizar o sistema operacional regularmente. | Baixar arquivos de sites desconhecidos. | Desabilitar o antivírus para navegar mais rápido.
+Qual é a principal vantagem da autenticação multifator (MFA)?| Princípios de Segurança da Informação | C | Reduz o custo de hardware | Aumenta a velocidade de login | Dificulta o acesso não autorizado mesmo com senha vazada | Elimina a necessidade de senha
+Quais das opções a seguir representam um risco interno à segurança da informação?| Princípios de Segurança da Informação | C | Ataque DDoS | Hacker externo | Funcionário insatisfeito | Vírus da internet
+Qual das alternativas abaixo pode comprometer a disponibilidade do sistema?| Princípios de Segurança da Informação | B | Phishing | Ataque DoS | Vírus tipo cavalo de Troia | Engenharia social
+Qual das ferramentas abaixo é usada para detectar ameaças?| Princípios de Segurança da Informação | A | IDS (Sistema de Detecção de Intrusão) | VPN | Proxy | NAT
+Assinale a prática que não contribui para a segurança da informação:| Princípios de Segurança da Informação | B | Atualização frequente de sistemas | Compartilhamento de senhas entre colegas | Criptografia de dados | Backup regular
+O conceito de “menor privilégio” significa: | Princípios de Segurança da Informação | B | Todos os usuários têm os mesmos direitos. | O acesso é concedido apenas ao que for necessário. | O administrador pode acessar tudo. | O sistema é menos vulnerável sem restrições.
+Um certificado digital serve para:| Princípios de Segurança da Informação | C | Testar a velocidade da internet | Criptografar arquivos ZIP | Verificar a autenticidade e integridade das comunicações | Otimizar o banco de dados
+
+
+Qual o valor da proposição composta ¬(p ∧ q), quando p = verdadeiro e q = falso?| Matemática Discreta | A | Verdadeiro | Falso | Indeterminado | Invalido
+Qual das alternativas representa uma proposição logicamente equivalente a p → q?| Matemática Discreta | A | ¬p ∨ q | p ∧ ¬q | ¬p ∧ q | ¬p → q
+O conjunto das partes de um conjunto com 3 elementos possui quantos subconjuntos?| Matemática Discreta | C | 3 | 6 | 8 | 9
+Qual é o número de permutações dos elementos do conjunto {a, b, c, d}? | Matemática Discreta | C | Qual é o número de permutações dos elementos do conjunto {a, b, c, d}? | 16 | 12 | 24 | 20
+Em uma urna com 4 bolas vermelhas e 3 verdes, quantos subconjuntos de 2 bolas podem ser formados?| Matemática Discreta | B | 7 | 21 | 10 | 6
+O número 1011 na base binária equivale a qual número decimal?| Matemática Discreta | D | 10 | 11 | 13 | 15
+Qual é o valor do coeficiente binomial C(5,2)?| Matemática Discreta | A | 10 | 5 | 15 | 8
+Um grafo conexo sem ciclos é chamado de:| Matemática Discreta | C | Grafo completo | Grafo simples | Árvore | Grafo regular
+Qual das opções representa corretamente um número primo?| Matemática Discreta | C | 21 | 91 | 29 | 49
+Se A = {1, 2, 3} e B = {3, 4, 5}, qual é A ∩ B?| Matemática Discreta | B | {1,2} | {3} | {3,4} | {1,2,3,4,5}
+Qual o menor número inteiro positivo que é múltiplo comum de 6 e 8? | Matemática Discreta | C | 12 | 18 | 24 | 48
+Se um grafo tem 5 vértices e 7 arestas, ele pode ser uma árvore?| Matemática Discreta | B | Sim | Não | Somente se for direcionado | Depende dos vértices
+Qual é a negação correta da proposição: "Se chove, então levo guarda-chuva"?| Matemática Discreta | A | Chove e não levo guarda-chuva | Não chove e levo guarda-chuva | Não chove ou levo guarda-chuva | Chove ou não levo guarda-chuva
+Qual o valor da expressão lógica: (p ∨ q) ∧ ¬p, sendo p = F e q = V?| Matemática Discreta | A | V | F | Indefinido | Nulo
+O conjunto dos números inteiros é denotado por:| Matemática Discreta | D | ℝ | ℚ | ℕ | ℤ
+Qual é o número total de subconjuntos de um conjunto com 5 elementos?| Matemática Discreta | C | 25 | 10 | 32 | 120
+O número de combinações possíveis de 3 elementos retirados de um conjunto de 5 é:| Matemática Discreta | A | 10 | 15 | 20 | 5
+Em qual caso a disjunção (p ∨ q) é falsa?| Matemática Discreta | D | p = V, q = F | p = F, q = V | p = V, q = V | p = F, q = F
+Qual é a representação correta da negação da disjunção ¬(p ∨ q)? | Matemática Discreta | B | ¬p ∨ ¬q | ¬p ∧ ¬q | p ∨ q | p ∧ q
+O que representa o símbolo ∀ em lógica matemática?| Matemática Discreta | C | Existe | Igual | Para todo | Inverso
+
+Elaborado por: Isabela Cascais, Laura Felício e Sofia Knebl — SEGMA1 — 2025/01
